@@ -1,0 +1,6 @@
+/mysql-data
+/www/.composer
+*.bash_history
+
+# phpstorm project files
+.idea
